@@ -1,4 +1,3 @@
-```yaml
 payload:
   # Synology 群晖
   - DOMAIN,synology.com
