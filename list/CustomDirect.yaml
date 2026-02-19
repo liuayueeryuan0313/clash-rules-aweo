@@ -1,0 +1,107 @@
+```yaml
+payload:
+  # Synology 群晖
+  - DOMAIN,synology.com
+  - DOMAIN,synology.cn
+  - DOMAIN,quickconnect.to
+  - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,synology.cn
+  - DOMAIN-SUFFIX,quickconnect.to
+  - DOMAIN-SUFFIX,myds.me
+  - DOMAIN-SUFFIX,i234.me
+
+  # Samsung 三星
+  - DOMAIN,samsung.com
+  - DOMAIN,samsungcloud.com
+  - DOMAIN,samsungapps.com
+  - DOMAIN,samsungosp.com
+  - DOMAIN,samsungdive.com
+  - DOMAIN,samsungfind.com
+  - DOMAIN,samsungconsent.com
+  - DOMAIN,samsungrs.com
+  - DOMAIN,aibixby.com
+  - DOMAIN-SUFFIX,samsung.com
+  - DOMAIN-SUFFIX,samsungcloud.com
+  - DOMAIN-SUFFIX,samsungapps.com
+  - DOMAIN-SUFFIX,samsungosp.com
+  - DOMAIN-SUFFIX,samsungdive.com
+  - DOMAIN-SUFFIX,samsungfind.com
+  - DOMAIN-SUFFIX,samsungconsent.com
+  - DOMAIN-SUFFIX,samsungrs.com
+  - DOMAIN-SUFFIX,aibixby.com
+
+  # ASUS 华硕
+  - DOMAIN,asus.com
+  - DOMAIN-SUFFIX,asus.com
+
+  # Sony 索尼
+  - DOMAIN,sony.com
+  - DOMAIN,sony.net
+  - DOMAIN-SUFFIX,sony.com
+
+  # Steam 补充
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
+
+  # WeChat 微信
+  - DOMAIN,wechat.com
+  - DOMAIN-SUFFIX,wechat.com
+
+  # Apple 补充
+  - DOMAIN-SUFFIX,apple.com.akadns.net
+
+  # iPA
+  - DOMAIN,ipa.store
+  - DOMAIN-SUFFIX,ipa.store
+
+  # Tineco 添可
+  - DOMAIN,tineco.com
+  - DOMAIN-SUFFIX,tineco.com
+
+  # Philips IoT
+  - DOMAIN-SUFFIX,philipsiot.com
+
+  # istoreos
+  - DOMAIN,istoreos.com
+  - DOMAIN-SUFFIX,istoreos.com
+
+  # ndmdhs
+  - DOMAIN,ndmdhs.com
+  - DOMAIN-SUFFIX,ndmdhs.com
+
+  # c-ij.com
+  - DOMAIN,c-ij.com
+  - DOMAIN-SUFFIX,c-ij.com
+
+  # GH 代理
+  - DOMAIN,gh-proxy.com
+  - DOMAIN,ghfast.top
+
+  # yooc.me
+  - DOMAIN,yooc.me
+  - DOMAIN-SUFFIX,yooc.me
+
+  # sdut.space
+  - DOMAIN,sdut.space
+
+  # koyso.to
+  - DOMAIN,koyso.to
+
+  # shiroko.sbs
+  - DOMAIN,shiroko.sbs
+  - DOMAIN-SUFFIX,shiroko.sbs
+
+  # xcynsp3.cfd
+  - DOMAIN,xcynsp3.cfd
+
+  # ynpic6.buzz
+  - DOMAIN,ynpic6.buzz
+
+  # xfyzyyb.xyz
+  - DOMAIN,pan.xfyzyyb.xyz
+  - DOMAIN-SUFFIX,xfyzyyb.xyz
+
+  # 168mumu
+  - DOMAIN-SUFFIX,168mumu.com
+```
