@@ -110,6 +110,7 @@ payload:
   - DOMAIN-SUFFIX,wegame.com.cn
   - DOMAIN-SUFFIX,anticheatexpert.com
   - IP-CIDR,43.132.0.0/16
+  - DOMAIN-SUFFIX,pool.ntp.org
 
   # taobao
   - IP-CIDR,47.250.0.0/16
