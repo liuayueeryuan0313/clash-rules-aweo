@@ -109,3 +109,4 @@ payload:
   - DOMAIN,anticheatexpert.com
   - DOMAIN-SUFFIX,wegame.com.cn
   - DOMAIN-SUFFIX,anticheatexpert.com
+  - IP-CIDR,43.132.55.55/32
