@@ -105,3 +105,7 @@ payload:
   - DOMAIN-SUFFIX,168mumu.com
   - DOMAIN-SUFFIX,poecdn.com
   - DOMAIN,poecdn.com
+  - DOMAIN,wegame.com.cn
+  - DOMAIN,anticheatexpert.com
+  - DOMAIN-SUFFIX,wegame.com.cn
+  - DOMAIN-SUFFIX,anticheatexpert.com
