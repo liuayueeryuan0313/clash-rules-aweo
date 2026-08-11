@@ -50,7 +50,6 @@ payload:
   # Apple 补充
   - DOMAIN-SUFFIX,apple.com.akadns.net
   - DOMAIN-SUFFIX,apple-relay.cloudflare.com
-  - DOMAIN-SUFFIX,api-siri-prod.apple.com
   # iPA
   - DOMAIN,ipa.store
   - DOMAIN-SUFFIX,ipa.store
